@@ -3,7 +3,7 @@
   - lab3-github-username repo is created in the GitHub course org:[https://github.com/2020-fall-comp-705-805](https://github.com/2020-fall-comp-705-805)
   - Accept **lab3** GitHub Classroom&#39;s 
 
-**Note:Just go through chapter 20 and 21.Ignore if the chapters say to create a new repo.You need to do all the work in this repo.**
+**Note:Only for chapters 20 and 21 just go through the chapters and read them.Ignore if the chapters say to create a new repo.You need to do all the work in this repo.**
   - Complete coding activities in the reading on your local machine
     - Reading/coding activities in Django Crash Course textbook:
       - 15 The EveryCheese Project
