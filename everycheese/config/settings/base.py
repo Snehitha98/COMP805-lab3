@@ -51,7 +51,7 @@ DATABASES = {
     # DATABASE_URL=postgres://user:password@hostname_or_ip:port/database_name
     "default": env.db(
         "DATABASE_URL",
-        default="postgres:///everycheese",
+        default="postgres://sm1552:snehitha@localhost:5432/everycheese",
     )
 }
 DATABASES["default"]["ATOMIC_REQUESTS"] = True
@@ -243,7 +243,7 @@ EMAIL_TIMEOUT = 5
 # Django Admin URL.
 ADMIN_URL = "admin/"
 # https://docs.djangoproject.com/en/dev/ref/settings/#admins
-ADMINS = [("Your name here", "your-name-here@example.com")]
+ADMINS = [("Snehitha Mamidi", "sm1552@wildcats.unh.edu")]
 # https://docs.djangoproject.com/en/dev/ref/settings/#managers
 MANAGERS = ADMINS
 
